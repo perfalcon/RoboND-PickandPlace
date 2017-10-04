@@ -132,6 +132,5 @@ Using the IK calculated the joint angles.
 
 Need to improve the accuracy of picking and placing more items.
 
-Please refer to the attached code in : 
-# IK_server.py.
+Please refer to the attached code in :  IK_server.py.
 
